@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Burger
 Pizza
 Sandwitch
-=======
 Misson Impossible
 Extraction 2
 Room
->>>>>>> movies
